@@ -1,0 +1,458 @@
+DataNotaFiscal,Fabricante,Estado,ValorVenda,ValorCusto,TotalDesconto,CustoEntrega,CustoMaoDeObra,NomeCliente,Modelo,Cor,Ano
+04-10-2016,Rolls Royce,São Paulo - SP,95000,50000,500,750,750,Aldo Motors,Camargue,Vermelho,2016
+01-01-2016,Aston Martin,São Paulo - SP,120000,75000,0,1500,550,Honest John,DBS,Azul,2016
+02-02-2016,Rolls Royce,São Paulo - SP,88000,75000,750,1000,550,Bright Orange,Prata Ghost,Verde,2016
+03-03-2016,Rolls Royce,São Paulo - SP,89000,88000,0,1000,550,Honest John,Prata Ghost,Azul,2016
+04-04-2016,Rolls Royce,São Paulo - SP,92000,62000,0,1500,550,Wheels'R'Us,Camargue,Prata,2016
+04-05-2016,Rolls Royce,São Paulo - SP,102500,125000,0,1000,550,Cut'n'Shut,Camargue,Verde,2016
+04-06-2016,Aston Martin,São Paulo - SP,110000,56000,750,500,550,Bright Orange,DBS,Púrpura,2016
+04-07-2016,Aston Martin,Minas Gerais - MG,125000,23500,2500,1000,550,Les Arnaqueurs,DB7,Vermelho,2016
+04-08-2016,Aston Martin,São Paulo - SP,130000,15500,0,1000,750,Aldo Motors,DB9,Azul,2016
+04-09-2016,Aston Martin,São Paulo - SP,75000,75890,0,1000,750,Aldo Motors,DB9,Prata,2016
+04-09-2016,Aston Martin,São Paulo - SP,68500,99000,0,1000,750,Aldo Motors,DB4,Azul,2016
+04-11-2016,Aston Martin,Minas Gerais - MG,95000,125000,0,1500,750,Les Arnaqueurs,Vantage,Prata,2016
+04-11-2016,Aston Martin,São Paulo - SP,155000,125000,0,1500,750,Wheels'R'Us,Vanquish,Azul,2016
+04-12-2016,Aston Martin,São Paulo - SP,95000,155000,5000,1500,570,Bright Orange,Rapide,Preto,2016
+04-12-2016,Aston Martin,São Paulo - SP,178500,125000,0,1500,570,Cut'n'Shut,Zagato,Verde,2016
+02-01-2017,Rolls Royce,Minas Gerais - MG,130000,62000,0,1750,570,Les Arnaqueurs,Prata Ghost,Prata,2017
+02-02-2017,Rolls Royce,São Paulo - SP,178500,62000,0,1750,654,Wheels'R'Us,Wraith,Prata,2017
+02-03-2017,Rolls Royce,São Paulo - SP,110000,75890,0,990,987,Cut'n'Shut,Prata Ghost,Verde,2017
+02-04-2017,Rolls Royce,São Paulo - SP,130000,62000,0,500,654,Bright Orange,Camargue,Azul,2017
+02-05-2017,Rolls Royce,São Paulo - SP,178500,75890,950,1750,321,Honest John,Prata Shadow,Vermelho,2017
+02-06-2017,Rolls Royce,São Paulo - SP,110000,62000,0,1750,951,Aldo Motors,Prata Seraph,Vermelho,2017
+02-07-2017,Rolls Royce,São Paulo - SP,102500,62000,1750,500,987,Aldo Motors,Prata Ghost,Preto,2017
+02-08-2017,Rolls Royce,São Paulo - SP,130000,62000,0,1000,750,Honest John,Prata Shadow,Verde,2017
+02-09-2017,Rolls Royce,São Paulo - SP,178500,75890,0,450,654,Bright Orange,Camargue,Púrpura,2017
+02-10-2017,Rolls Royce,São Paulo - SP,178500,75890,0,1750,987,Wheels'R'Us,Prata Seraph,Vermelho,2017
+02-11-2017,Rolls Royce,São Paulo - SP,130000,75890,750,1750,321,Cut'n'Shut,Prata Ghost,Vermelho,2017
+02-12-2017,Rolls Royce,São Paulo - SP,178500,62000,0,1750,654,Wheels'R'Us,Phantom,Verde,2017
+02-01-2017,Aston Martin,São Paulo - SP,178500,75890,0,500,987,Wheels'R'Us,DB9,Púrpura,2017
+02-02-2017,Aston Martin,São Paulo - SP,110000,75890,0,500,963,Cut'n'Shut,DB4,Verde,2017
+02-03-2017,Aston Martin,São Paulo - SP,178500,75890,0,500,852,Cut'n'Shut,DB9,Preto,2017
+02-04-2017,Aston Martin,São Paulo - SP,110000,75890,0,0,147,Bright Orange,DB4,Azul,2017
+02-05-2017,Aston Martin,São Paulo - SP,102500,75890,"0,01",500,852,Bright Orange,DB4,Prata,2017
+02-06-2017,Aston Martin,São Paulo - SP,178500,62000,750,450,654,Honest John,Vanquish,Prata,2017
+02-07-2017,Aston Martin,São Paulo - SP,124500,62000,1000,450,984,Aldo Motors,Vanquish,Verde,2017
+02-08-2017,Aston Martin,São Paulo - SP,130000,62000,1250,450,895,Aldo Motors,DB9,Azul,2017
+02-09-2017,Aston Martin,São Paulo - SP,110000,62000,0,0,486,Honest John,DB9,Azul,2017
+02-10-2017,Aston Martin,São Paulo - SP,178500,62000,0,450,325,Bright Orange,Vanquish,Vermelho,2017
+02-11-2017,Aston Martin,São Paulo - SP,130000,125000,0,1750,658,Wheels'R'Us,Rapide,Vermelho,2017
+02-12-2017,Aston Martin,São Paulo - SP,110000,125000,0,1750,752,Cut'n'Shut,Vanquish,Vermelho,2017
+01-01-2016,Jaguar,Rio de Janeiro - RJ,44000,25000,500,450,486,Rocky Riding,XK,Púrpura,2016
+01-02-2016,Jaguar,Rio de Janeiro - RJ,45000,37500,500,450,486,Rocky Riding,XJ6,Verde,2016
+01-03-2016,Jaguar,Espírito Santo - ES,39500,25000,500,0,486,Voitures Diplomatiques S.A.,XJ12,Preto,2016
+01-04-2016,Jaguar,Minas Gerais - MG,44000,37500,500,500,486,Les Arnaqueurs,XK,Prata,2016
+01-05-2016,Jaguar,São Paulo - SP,44000,25000,500,500,486,Bright Orange,XJ12,Prata,2016
+01-06-2016,Jaguar,São Paulo - SP,39500,37500,500,500,486,Honest John,XK,Azul,2016
+01-07-2016,Jaguar,São Paulo - SP,44000,25000,500,1750,486,Wheels'R'Us,XK,Verde,2016
+01-08-2016,Jaguar,São Paulo - SP,110000,50000,750,500,486,Cut'n'Shut,XJ12,Azul,2016
+01-09-2016,Jaguar,Rio de Janeiro - RJ,110000,25000,750,1750,987,Rocky Riding,XJ12,Prata,2016
+01-10-2016,Jaguar,Espírito Santo - ES,44000,37500,750,1750,987,Voitures Diplomatiques S.A.,XJ6,Verde,2016
+01-11-2016,Jaguar,São Paulo - SP,39500,25000,0,500,987,Aldo Motors,XK,Púrpura,2016
+01-12-2016,Jaguar,São Paulo - SP,44000,37500,0,500,987,Aldo Motors,XK,Preto,2016
+02-01-2017,Jaguar,São Paulo - SP,44000,25000,0,1750,987,Honest John,XK,Verde,2017
+02-02-2017,Jaguar,São Paulo - SP,44000,37500,0,500,987,Bright Orange,XK,Púrpura,2017
+02-03-2017,Jaguar,São Paulo - SP,39500,25000,750,500,987,Cut'n'Shut,XJ6,Vermelho,2017
+02-04-2017,Jaguar,São Paulo - SP,110000,37500,750,500,987,Wheels'R'Us,XJ6,Vermelho,2017
+02-05-2017,Jaguar,São Paulo - SP,44000,25000,750,500,987,Crippen & Co,XJ6,Vermelho,2017
+02-06-2017,Jaguar,Espírito Santo - ES,39500,37500,500,450,987,Voitures Diplomatiques S.A.,XK,Púrpura,2017
+02-07-2017,Jaguar,Rio de Janeiro - RJ,39500,25000,500,450,750,Rocky Riding,XK,Verde,2017
+02-08-2017,Jaguar,São Paulo - SP,39500,12500,500,450,750,Crippen & Co,XK,Preto,2017
+02-09-2017,Jaguar,Minas Gerais - MG,39500,25000,500,500,750,Les Arnaqueurs,XK,Azul,2017
+02-10-2017,Jaguar,São Paulo - SP,39500,37500,750,500,750,Wheels'R'Us,XK,Prata,2017
+02-11-2017,Jaguar,São Paulo - SP,39500,25000,750,500,1250,Wheels'R'Us,XK,Prata,2017
+02-12-2017,Jaguar,São Paulo - SP,39500,37500,750,500,1250,Cut'n'Shut,XJ6,Verde,2017
+01-01-2016,Bentley,São Paulo - SP,39500,25700,750,500,1250,Cut'n'Shut,Continental,Azul,2016
+01-02-2016,Bentley,São Paulo - SP,44000,25700,750,500,1250,Bright Orange,Arnage,Azul,2016
+01-03-2016,Bentley,São Paulo - SP,44000,25700,750,500,987,Bright Orange,Azure,Vermelho,2016
+01-04-2016,Bentley,São Paulo - SP,110000,25700,750,775,1250,Honest John,Turbo R,Vermelho,2016
+01-05-2016,Bentley,São Paulo - SP,110000,62000,750,775,987,Honest John,Continental,Prata,2016
+01-06-2016,Bentley,São Paulo - SP,110000,62000,500,775,1250,Aldo Motors,Continental,Púrpura,2016
+01-07-2016,Bentley,São Paulo - SP,110000,25700,500,775,987,Aldo Motors,Continental,Verde,2016
+01-08-2016,Bentley,Espírito Santo - ES,110000,25700,500,775,1250,Voitures Diplomatiques S.A.,Azure,Preto,2016
+01-09-2016,Bentley,Rio de Janeiro - RJ,44000,25700,500,775,987,Rocky Riding,Turbo R,Prata,2016
+01-10-2016,Bentley,Minas Gerais - MG,110000,62000,500,500,1250,Les Arnaqueurs,Continental,Prata,2016
+01-11-2016,Bentley,São Paulo - SP,44000,62000,500,450,987,Aldo Motors,Continental,Prata,2016
+01-12-2016,Bentley,São Paulo - SP,44000,62000,500,450,987,Honest John,Continental,Azul,2016
+02-01-2017,Bentley,São Paulo - SP,110000,25700,500,450,1250,Bright Orange,Continental,Azul,2017
+02-02-2017,Bentley,São Paulo - SP,110000,25700,500,500,750,Cut'n'Shut,Continental,Verde,2017
+02-03-2017,Bentley,São Paulo - SP,41250,25700,500,775,750,Wheels'R'Us,Azure,Azul,2017
+02-04-2017,Bentley,Minas Gerais - MG,110000,25700,500,775,750,Les Arnaqueurs,Turbo R,Vermelho,2017
+02-05-2017,Bentley,São Paulo - SP,39500,62000,500,775,750,Crippen & Co,Turbo R,Vermelho,2017
+02-06-2017,Bentley,Rio de Janeiro - RJ,39500,62000,500,500,486,Rocky Riding,Continental,Vermelho,2017
+02-07-2017,Bentley,São Paulo - SP,39500,25700,500,500,486,Aldo Motors,Continental,Púrpura,2017
+02-08-2017,Bentley,São Paulo - SP,41250,62000,500,775,486,Honest John,Continental,Púrpura,2017
+02-09-2017,Bentley,Minas Gerais - MG,39500,62000,1250,450,486,Les Arnaqueurs,Continental,Verde,2017
+02-10-2017,Bentley,São Paulo - SP,44000,62000,1000,450,486,Wheels'R'Us,Continental,Preto,2017
+02-11-2017,Bentley,São Paulo - SP,44000,25700,1000,450,486,Honest John,Azure,Azul,2017
+02-12-2017,Bentley,São Paulo - SP,44000,25700,1000,450,486,Aldo Motors,Turbo R,Prata,2017
+02-01-2017,Jaguar,Paraná - PA,29750,37500,150,50,486,Costa Del Speed,XK,Vermelho,2017
+02-02-2017,TVR,Bahia - BA,41250,37500,150,50,325,Karz,Tuscan,Azul,2017
+02-03-2017,Jaguar,Paraná - PA,39500,37500,150,50,325,Costa Del Speed,XK,Verde,2017
+02-04-2017,TVR,Bahia - BA,29750,37500,150,50,325,Karz,Cerbera,Prata,2017
+02-05-2017,Jaguar,Espírito Santo - ES,120000,37500,150,50,325,Voitures Diplomatiques S.A.,XK,Prata,2017
+02-06-2017,TVR,Rio de Janeiro - RJ,29750,37500,150,50,325,Rocky Riding,Tuscan,Azul,2017
+02-07-2017,Jaguar,São Paulo - SP,41250,37500,150,50,325,Honest John,XK,Prata,2017
+02-08-2017,TVR,Minas Gerais - MG,29750,37500,150,50,325,Les Arnaqueurs,Cerbera,Prata,2017
+02-09-2017,Jaguar,São Paulo - SP,39500,37500,150,50,325,Wheels'R'Us,XK,Verde,2017
+02-10-2017,TVR,Rio de Janeiro - RJ,41250,37500,150,50,325,Rocky Riding,Tuscan,Azul,2017
+02-11-2017,Jaguar,São Paulo - SP,29750,37500,150,50,325,Wheels'R'Us,XK,Azul,2017
+02-12-2017,Jaguar,São Paulo - SP,41250,37500,150,50,325,Bright Orange,XJ6,Azul,2017
+02-01-2017,Jaguar,São Paulo - SP,39500,25700,150,50,250,Olde Englande,XJ6,Púrpura,2017
+02-02-2017,Jaguar,São Paulo - SP,39500,25700,150,50,250,Impressive Wheels,XJ6,Verde,2017
+02-03-2017,Jaguar,São Paulo - SP,39500,25700,150,50,250,Olde Englande,XJ6,Preto,2017
+02-04-2017,Jaguar,São Paulo - SP,39500,62000,150,50,250,Smooth Riders,XK,Azul,2017
+02-05-2017,Jaguar,São Paulo - SP,41250,62000,150,50,250,Luxury Rentals,XK,Prata,2017
+02-06-2017,Jaguar,São Paulo - SP,41250,25700,150,50,250,Premium Motor Vehicles,XJ6,Prata,2017
+02-07-2017,Jaguar,São Paulo - SP,39500,25700,150,50,250,Luxury Rentals,XJ6,Prata,2017
+02-08-2017,Jaguar,São Paulo - SP,39500,25700,150,50,250,Aldo Motors,XK,Prata,2017
+02-09-2017,Jaguar,São Paulo - SP,39500,62000,150,50,250,Honest John,XK,Prata,2017
+02-10-2017,Jaguar,São Paulo - SP,39500,25700,150,50,250,Honest John,XJ6,Prata,2017
+02-11-2017,Jaguar,São Paulo - SP,41250,62000,150,50,250,Bright Orange,XK,Azul,2017
+02-12-2017,Jaguar,São Paulo - SP,41250,62000,150,50,250,Cut'n'Shut,XK,Azul,2017
+02-01-2017,MGB,São Paulo - SP,39500,4500,150,50,325,Wheels'R'Us,GT,Verde,2017
+02-02-2017,MGB,São Paulo - SP,39500,8500,150,50,325,Olde Englande,GT,Verde,2017
+02-03-2017,MGB,São Paulo - SP,25250,4500,150,50,325,Wheels'R'Us,GT,Vermelho,2017
+02-04-2017,MGB,São Paulo - SP,22500,8500,150,50,325,Wheels'R'Us,GT,Vermelho,2017
+02-05-2017,MGB,São Paulo - SP,22500,4500,150,50,325,Cut'n'Shut,GT,Vermelho,2017
+02-06-2017,MGB,São Paulo - SP,22500,8500,150,50,325,Cut'n'Shut,GT,Vermelho,2017
+02-07-2017,MGB,São Paulo - SP,25250,4500,150,50,325,Bright Orange,GT,Azul,2017
+02-08-2017,MGB,São Paulo - SP,22500,8500,150,50,325,Honest John,GT,Verde,2017
+02-09-2017,MGB,São Paulo - SP,25250,4500,150,50,325,Aldo Motors,GT,Prata,2017
+02-10-2017,MGB,São Paulo - SP,22500,8500,150,50,325,Honest John,GT,Prata,2017
+02-11-2017,MGB,São Paulo - SP,25250,4500,150,50,325,Bright Orange,GT,Azul,2017
+02-12-2017,MGB,São Paulo - SP,22500,4500,150,50,325,Aldo Motors,GT,Verde,2017
+02-01-2017,Triumph,São Paulo - SP,22500,8500,150,50,325,Luxury Rentals,TR4,Preto,2017
+02-02-2017,Triumph,São Paulo - SP,25250,17000,150,50,325,Smooth Riders,TR5,Púrpura,2017
+02-03-2017,Triumph,São Paulo - SP,22500,8500,150,50,325,Honest John,TR7,Verde,2017
+02-04-2017,Triumph,São Paulo - SP,22500,17000,150,50,325,Impressive Wheels,TR4,Azul,2017
+02-05-2017,Triumph,São Paulo - SP,22500,8500,150,50,325,Bright Orange,TR4,Prata,2017
+02-06-2017,Triumph,Paraná - PA,22500,17000,150,50,325,Costa Del Speed,TR5,Prata,2017
+02-07-2017,Triumph,São Paulo - SP,25250,17000,150,50,325,Cut'n'Shut,TR5,Azul,2017
+02-08-2017,Triumph,São Paulo - SP,22500,17000,150,50,325,Wheels'R'Us,TR4,Azul,2017
+02-09-2017,Triumph,São Paulo - SP,25250,17000,150,50,325,Olde Englande,TR4,Vermelho,2017
+02-10-2017,Triumph,São Paulo - SP,25250,17000,150,50,325,Impressive Wheels,TR7,Vermelho,2017
+02-11-2017,Triumph,São Paulo - SP,25250,17000,150,50,325,Cut'n'Shut,TR4,Verde,2017
+02-12-2017,Triumph,São Paulo - SP,25250,17000,150,50,450,Bright Orange,TR5,Prata,2017
+09-01-2017,Aston Martin,Minas Gerais - MG,74500,31125,500,975,1250,Chateau Moi,DB7,Vermelho,2017
+10-01-2017,Aston Martin,Minas Gerais - MG,69250,17500,1250,975,1250,Vive la Vitesse!,DB7,Azul,2017
+11-02-2017,Aston Martin,Minas Gerais - MG,22750,22500,500,975,950,Carosse Des Papes,Vantage,Verde,2017
+12-03-2017,Aston Martin,Espírito Santo - ES,37000,17500,1000,975,1250,Three Country Cars,Vantage,Prata,2017
+13-03-2017,Rolls Royce,Espírito Santo - ES,74500,31125,750,975,1250,Jungfrau,Camargue,Prata,2017
+14-03-2017,Aston Martin,Minas Gerais - MG,45800,17500,1000,975,950,Chateau Moi,DB7,Azul,2017
+15-04-2017,Rolls Royce,Minas Gerais - MG,22750,22500,2500,350,1250,Vive la Vitesse!,Camargue,Preto,2017
+16-04-2017,Aston Martin,Minas Gerais - MG,45800,17500,1250,350,1250,Carosse Des Papes,Vantage,Vermelho,2017
+17-05-2017,Aston Martin,Espírito Santo - ES,37000,17500,1000,350,1250,Three Country Cars,DB7,Azul,2017
+18-05-2017,Aston Martin,Espírito Santo - ES,45800,17500,500,975,1250,Jungfrau,Vantage,Verde,2017
+19-05-2017,Aston Martin,Minas Gerais - MG,37690,22500,1000,975,950,Chateau Moi,DB7,Prata,2017
+20-06-2017,Aston Martin,Minas Gerais - MG,74500,17500,2500,975,1250,Vive la Vitesse!,Vantage,Prata,2017
+21-07-2017,Rolls Royce,Minas Gerais - MG,45800,17500,1250,975,1250,Carosse Des Papes,Camargue,Azul,2017
+22-07-2017,Aston Martin,Espírito Santo - ES,37000,22500,1000,275,1250,Three Country Cars,DB7,Preto,2017
+23-09-2017,Aston Martin,Espírito Santo - ES,37690,17500,1250,275,1250,Jungfrau,DB9,Vermelho,2017
+24-10-2017,Rolls Royce,Espírito Santo - ES,69250,17500,500,275,950,Jungfrau,Camargue,Azul,2017
+25-11-2017,Aston Martin,Minas Gerais - MG,37690,31125,1000,975,1250,Vive la Vitesse!,DB9,Verde,2017
+26-11-2017,Aston Martin,Espírito Santo - ES,74500,17500,750,975,1250,Jungfrau,DB7,Prata,2017
+27-11-2017,Aston Martin,Minas Gerais - MG,37690,17500,500,975,1250,Carosse Des Papes,DB9,Prata,2017
+04-10-2018,Rolls Royce,São Paulo - SP,97750,55000,550,725,750,Aldo Motors,Camargue,Prata,2018
+01-01-2018,Aston Martin,São Paulo - SP,122750,80000,50,1475,550,Honest John,DBS,Azul,2018
+02-02-2018,Rolls Royce,São Paulo - SP,90750,80000,800,975,550,Bright Orange,Prata Ghost,Verde,2018
+03-03-2018,Rolls Royce,São Paulo - SP,91750,93000,50,975,550,Honest John,Prata Ghost,Azul,2018
+04-04-2018,Rolls Royce,São Paulo - SP,94750,67000,50,1475,550,Wheels'R'Us,Camargue,Prata,2018
+04-05-2018,Rolls Royce,São Paulo - SP,105250,130000,50,975,550,Cut'n'Shut,Camargue,Verde,2018
+04-06-2018,Aston Martin,São Paulo - SP,112750,61000,800,475,550,Bright Orange,DBS,Púrpura,2018
+04-07-2018,Aston Martin,Minas Gerais - MG,127750,28500,2550,975,550,Les Arnaqueurs,DB7,Vermelho,2018
+04-08-2018,Aston Martin,São Paulo - SP,132750,20500,50,975,750,Aldo Motors,DB9,Azul,2018
+04-09-2018,Aston Martin,São Paulo - SP,77750,80890,50,975,750,Aldo Motors,DB9,Prata,2018
+04-11-2018,Aston Martin,Minas Gerais - MG,71250,104000,50,1475,750,Les Arnaqueurs,DB4,Azul,2018
+04-11-2018,Aston Martin,São Paulo - SP,97750,130000,50,1475,750,Wheels'R'Us,Vantage,Prata,2018
+04-12-2018,Aston Martin,São Paulo - SP,157750,130000,5050,1475,750,Bright Orange,Vanquish,Prata,2018
+04-12-2018,Aston Martin,São Paulo - SP,97750,160000,50,1475,570,Cut'n'Shut,Rapide,Preto,2018
+02-01-2019,Aston Martin,Minas Gerais - MG,181250,130000,50,1725,570,Les Arnaqueurs,Zagato,Verde,2019
+02-02-2019,Rolls Royce,São Paulo - SP,132750,67000,50,1725,570,Wheels'R'Us,Prata Ghost,Prata,2019
+02-03-2019,Rolls Royce,São Paulo - SP,181250,67000,50,965,654,Cut'n'Shut,Wraith,Prata,2019
+02-04-2019,Rolls Royce,São Paulo - SP,112750,80890,50,475,987,Bright Orange,Prata Ghost,Verde,2019
+02-05-2019,Rolls Royce,São Paulo - SP,132750,67000,1000,1725,654,Honest John,Camargue,Preto,2019
+02-06-2019,Rolls Royce,São Paulo - SP,181250,80890,50,1725,321,Aldo Motors,Prata Shadow,Vermelho,2019
+02-07-2019,Rolls Royce,São Paulo - SP,112750,67000,1800,475,951,Aldo Motors,Prata Seraph,Vermelho,2019
+02-08-2019,Rolls Royce,São Paulo - SP,105250,67000,50,975,987,Honest John,Prata Ghost,Preto,2019
+02-09-2019,Rolls Royce,São Paulo - SP,132750,67000,50,425,750,Bright Orange,Prata Shadow,Verde,2019
+02-10-2019,Rolls Royce,São Paulo - SP,181250,80890,50,1725,654,Wheels'R'Us,Camargue,Púrpura,2019
+02-11-2019,Rolls Royce,São Paulo - SP,181250,80890,800,1725,987,Cut'n'Shut,Prata Seraph,Preto,2019
+02-12-2019,Rolls Royce,São Paulo - SP,132750,80890,50,1725,321,Wheels'R'Us,Prata Ghost,Vermelho,2019
+02-01-2019,Rolls Royce,São Paulo - SP,181250,67000,50,475,654,Wheels'R'Us,Phantom,Verde,2019
+02-02-2019,Aston Martin,São Paulo - SP,181250,80890,50,475,987,Cut'n'Shut,DB9,Púrpura,2019
+02-03-2019,Aston Martin,São Paulo - SP,112750,80890,50,475,963,Cut'n'Shut,DB4,Preto,2019
+02-04-2019,Aston Martin,São Paulo - SP,181250,80890,50,50,852,Bright Orange,DB9,Preto,2019
+02-05-2019,Aston Martin,São Paulo - SP,112750,80890,"50,01",475,147,Bright Orange,DB4,Azul,2019
+02-06-2019,Aston Martin,São Paulo - SP,105250,80890,800,425,852,Honest John,DB4,Prata,2019
+02-07-2019,Aston Martin,São Paulo - SP,181250,67000,1050,425,654,Aldo Motors,Vanquish,Prata,2019
+02-08-2019,Aston Martin,São Paulo - SP,127250,67000,1300,425,984,Aldo Motors,Vanquish,Verde,2019
+02-09-2019,Aston Martin,São Paulo - SP,132750,67000,50,75,895,Honest John,DB9,Prata,2019
+02-10-2019,Aston Martin,São Paulo - SP,112750,67000,50,425,486,Bright Orange,DB9,Azul,2019
+02-11-2019,Aston Martin,São Paulo - SP,181250,67000,50,1725,325,Wheels'R'Us,Vanquish,Vermelho,2019
+02-12-2019,Aston Martin,São Paulo - SP,132750,130000,50,1725,658,Cut'n'Shut,Rapide,Vermelho,2019
+01-01-2018,Aston Martin,Rio de Janeiro - RJ,112750,130000,550,425,752,Rocky Riding,Vanquish,Vermelho,2018
+01-02-2018,Jaguar,Rio de Janeiro - RJ,46750,30000,550,425,486,Rocky Riding,XK,Púrpura,2018
+01-03-2018,Jaguar,Espírito Santo - ES,47750,42500,550,75,486,Voitures Diplomatiques S.A.,XJ6,Verde,2018
+01-04-2018,Jaguar,Minas Gerais - MG,42250,30000,550,475,486,Les Arnaqueurs,XJ12,Preto,2018
+01-05-2018,Jaguar,São Paulo - SP,46750,42500,550,475,486,Bright Orange,XK,Prata,2018
+01-06-2018,Jaguar,São Paulo - SP,46750,30000,550,475,486,Honest John,XJ12,Prata,2018
+01-07-2018,Jaguar,São Paulo - SP,42250,42500,550,1725,486,Wheels'R'Us,XK,Prata,2018
+01-08-2018,Jaguar,São Paulo - SP,46750,30000,800,475,486,Cut'n'Shut,XK,Verde,2018
+01-09-2018,Jaguar,Rio de Janeiro - RJ,112750,55000,800,1725,486,Rocky Riding,XJ12,Azul,2018
+01-10-2018,Jaguar,Espírito Santo - ES,112750,30000,800,1725,987,Voitures Diplomatiques S.A.,XJ12,Prata,2018
+01-11-2018,Jaguar,São Paulo - SP,46750,42500,50,475,987,Aldo Motors,XJ6,Verde,2018
+01-12-2018,Jaguar,São Paulo - SP,42250,30000,50,475,987,Aldo Motors,XK,Púrpura,2018
+02-01-2019,Jaguar,São Paulo - SP,46750,42500,50,1725,987,Honest John,XK,Prata,2019
+02-02-2019,Jaguar,São Paulo - SP,46750,30000,50,475,987,Bright Orange,XK,Verde,2019
+02-03-2019,Jaguar,São Paulo - SP,46750,42500,800,475,987,Cut'n'Shut,XK,Púrpura,2019
+02-04-2019,Jaguar,São Paulo - SP,42250,30000,800,475,987,Wheels'R'Us,XJ6,Vermelho,2019
+02-05-2019,Jaguar,São Paulo - SP,112750,42500,800,475,987,Crippen & Co,XJ6,Vermelho,2019
+02-06-2019,Jaguar,Espírito Santo - ES,46750,30000,550,425,987,Voitures Diplomatiques S.A.,XJ6,Vermelho,2019
+02-07-2019,Jaguar,Rio de Janeiro - RJ,42250,42500,550,425,987,Rocky Riding,XK,Púrpura,2019
+02-08-2019,Jaguar,São Paulo - SP,42250,30000,550,425,750,Crippen & Co,XK,Verde,2019
+02-09-2019,Jaguar,Minas Gerais - MG,42250,17500,550,475,750,Les Arnaqueurs,XK,Preto,2019
+02-10-2019,Jaguar,São Paulo - SP,42250,30000,800,475,750,Wheels'R'Us,XK,Prata,2019
+02-11-2019,Jaguar,São Paulo - SP,42250,42500,800,475,750,Wheels'R'Us,XK,Prata,2019
+02-12-2019,Jaguar,São Paulo - SP,42250,30000,800,475,1250,Cut'n'Shut,XK,Prata,2019
+01-01-2018,Jaguar,São Paulo - SP,42250,42500,800,475,1250,Cut'n'Shut,XJ6,Verde,2018
+01-02-2018,Bentley,São Paulo - SP,42250,30700,800,475,1250,Bright Orange,Continental,Azul,2018
+01-03-2018,Bentley,São Paulo - SP,46750,30700,800,475,1250,Bright Orange,Arnage,Prata,2018
+01-04-2018,Bentley,São Paulo - SP,46750,30700,800,750,987,Honest John,Azure,Vermelho,2018
+01-05-2018,Bentley,São Paulo - SP,112750,30700,800,750,1250,Honest John,Turbo R,Vermelho,2018
+01-06-2018,Bentley,São Paulo - SP,112750,67000,550,750,987,Aldo Motors,Continental,Prata,2018
+01-07-2018,Bentley,São Paulo - SP,112750,67000,550,750,1250,Aldo Motors,Continental,Prata,2018
+01-08-2018,Bentley,Espírito Santo - ES,112750,30700,550,750,987,Voitures Diplomatiques S.A.,Continental,Verde,2018
+01-09-2018,Bentley,Rio de Janeiro - RJ,112750,30700,550,750,1250,Rocky Riding,Azure,Preto,2018
+01-10-2018,Bentley,Minas Gerais - MG,46750,30700,550,475,987,Les Arnaqueurs,Turbo R,Prata,2018
+01-11-2018,Bentley,São Paulo - SP,112750,67000,550,425,1250,Aldo Motors,Continental,Prata,2018
+01-12-2018,Bentley,São Paulo - SP,46750,67000,550,425,987,Honest John,Continental,Prata,2018
+02-01-2019,Bentley,São Paulo - SP,46750,67000,550,425,987,Bright Orange,Continental,Azul,2019
+02-02-2019,Bentley,São Paulo - SP,112750,30700,550,475,1250,Cut'n'Shut,Continental,Azul,2019
+02-03-2019,Bentley,São Paulo - SP,112750,30700,550,750,750,Wheels'R'Us,Continental,Verde,2019
+02-04-2019,Bentley,Minas Gerais - MG,44000,30700,550,750,750,Les Arnaqueurs,Azure,Azul,2019
+02-05-2019,Bentley,São Paulo - SP,112750,30700,550,750,750,Crippen & Co,Turbo R,Vermelho,2019
+02-06-2019,Bentley,Rio de Janeiro - RJ,42250,67000,550,475,750,Rocky Riding,Turbo R,Vermelho,2019
+02-07-2019,Bentley,São Paulo - SP,42250,67000,550,475,486,Aldo Motors,Continental,Vermelho,2019
+02-08-2019,Bentley,São Paulo - SP,42250,30700,550,750,486,Honest John,Continental,Púrpura,2019
+02-09-2019,Bentley,Minas Gerais - MG,44000,67000,1300,425,486,Les Arnaqueurs,Continental,Púrpura,2019
+02-10-2019,Bentley,São Paulo - SP,42250,67000,1050,425,486,Wheels'R'Us,Continental,Verde,2019
+02-11-2019,Bentley,São Paulo - SP,46750,67000,1050,425,486,Honest John,Continental,Preto,2019
+02-12-2019,Bentley,São Paulo - SP,46750,30700,1050,425,486,Aldo Motors,Azure,Azul,2019
+02-01-2019,Bentley,Paraná - PA,46750,30700,200,25,486,Costa Del Speed,Turbo R,Prata,2019
+02-02-2019,Jaguar,Bahia - BA,32500,42500,200,25,486,Karz,XK,Vermelho,2019
+02-03-2019,TVR,Paraná - PA,44000,42500,200,25,325,Costa Del Speed,Tuscan,Azul,2019
+02-04-2019,Jaguar,Bahia - BA,42250,42500,200,25,325,Karz,XK,Verde,2019
+02-05-2019,TVR,Espírito Santo - ES,32500,42500,200,25,325,Voitures Diplomatiques S.A.,Cerbera,Prata,2019
+02-06-2019,Jaguar,Rio de Janeiro - RJ,122750,42500,200,25,325,Rocky Riding,XK,Prata,2019
+02-07-2019,TVR,São Paulo - SP,32500,42500,200,25,325,Honest John,Tuscan,Azul,2019
+02-08-2019,Jaguar,Minas Gerais - MG,44000,42500,200,25,325,Les Arnaqueurs,XK,Prata,2019
+02-09-2019,TVR,São Paulo - SP,32500,42500,200,25,325,Wheels'R'Us,Cerbera,Prata,2019
+02-10-2019,Jaguar,Rio de Janeiro - RJ,42250,42500,200,25,325,Rocky Riding,XK,Vermelho,2019
+02-11-2019,TVR,São Paulo - SP,44000,42500,200,25,325,Wheels'R'Us,Tuscan,Azul,2019
+02-12-2019,Jaguar,São Paulo - SP,32500,42500,200,25,325,Bright Orange,XK,Azul,2019
+02-01-2019,Jaguar,São Paulo - SP,44000,42500,200,25,325,Olde Englande,XJ6,Azul,2019
+02-02-2019,Jaguar,São Paulo - SP,42250,30700,200,25,250,Impressive Wheels,XJ6,Púrpura,2019
+02-03-2019,Jaguar,São Paulo - SP,42250,30700,200,25,250,Olde Englande,XJ6,Verde,2019
+02-04-2019,Jaguar,São Paulo - SP,42250,30700,200,25,250,Smooth Riders,XJ6,Preto,2019
+02-05-2019,Jaguar,São Paulo - SP,42250,67000,200,25,250,Luxury Rentals,XK,Vermelho,2019
+02-06-2019,Jaguar,São Paulo - SP,44000,67000,200,25,250,Premium Motor Vehicles,XK,Prata,2019
+02-07-2019,Jaguar,São Paulo - SP,44000,30700,200,25,250,Luxury Rentals,XJ6,Prata,2019
+02-08-2019,Jaguar,São Paulo - SP,42250,30700,200,25,250,Aldo Motors,XJ6,Prata,2019
+02-09-2019,Jaguar,São Paulo - SP,42250,30700,200,25,250,Honest John,XK,Prata,2019
+02-10-2019,Jaguar,São Paulo - SP,42250,67000,200,25,250,Honest John,XK,Prata,2019
+02-11-2019,Jaguar,São Paulo - SP,42250,30700,200,25,250,Bright Orange,XJ6,Prata,2019
+02-12-2019,Jaguar,São Paulo - SP,44000,67000,200,25,250,Cut'n'Shut,XK,Azul,2019
+02-01-2019,Jaguar,São Paulo - SP,44000,67000,200,25,250,Wheels'R'Us,XK,Azul,2019
+02-02-2019,MGB,São Paulo - SP,42250,9500,200,25,325,Olde Englande,GT,Vermelho,2019
+02-03-2019,MGB,São Paulo - SP,42250,13500,200,25,325,Wheels'R'Us,GT,Verde,2019
+02-04-2019,MGB,São Paulo - SP,28000,9500,200,25,325,Wheels'R'Us,GT,Vermelho,2019
+02-05-2019,MGB,São Paulo - SP,25250,13500,200,25,325,Cut'n'Shut,GT,Vermelho,2019
+02-06-2019,MGB,São Paulo - SP,25250,9500,200,50,325,Cut'n'Shut,GT,Vermelho,2019
+02-07-2019,MGB,São Paulo - SP,25250,13500,200,25,325,Bright Orange,GT,Vermelho,2019
+02-08-2019,MGB,São Paulo - SP,28000,9500,200,25,325,Honest John,GT,Azul,2019
+02-09-2019,MGB,São Paulo - SP,25250,13500,200,25,325,Aldo Motors,GT,Verde,2019
+02-10-2019,MGB,São Paulo - SP,28000,9500,200,50,325,Honest John,GT,Prata,2019
+02-11-2019,MGB,São Paulo - SP,25250,13500,200,25,325,Bright Orange,GT,Prata,2019
+02-12-2019,MGB,São Paulo - SP,28000,9500,200,25,325,Aldo Motors,GT,Azul,2019
+02-01-2019,MGB,São Paulo - SP,25250,9500,200,25,325,Luxury Rentals,GT,Verde,2019
+02-02-2019,Triumph,São Paulo - SP,25250,13500,200,25,325,Smooth Riders,TR4,Preto,2019
+02-03-2019,Triumph,São Paulo - SP,28000,22000,200,25,325,Honest John,TR5,Púrpura,2019
+02-04-2019,Triumph,São Paulo - SP,25250,13500,200,50,325,Impressive Wheels,TR7,Verde,2019
+02-05-2019,Triumph,São Paulo - SP,25250,22000,200,25,325,Bright Orange,TR4,Azul,2019
+02-06-2019,Triumph,Paraná - PA,25250,13500,200,25,325,Costa Del Speed,TR4,Prata,2019
+02-07-2019,Triumph,São Paulo - SP,25250,22000,200,25,325,Cut'n'Shut,TR5,Prata,2019
+02-08-2019,Triumph,São Paulo - SP,28000,22000,200,50,325,Wheels'R'Us,TR5,Azul,2019
+02-09-2019,Triumph,São Paulo - SP,25250,22000,200,25,325,Olde Englande,TR4,Azul,2019
+02-10-2019,Triumph,São Paulo - SP,28000,22000,200,25,325,Impressive Wheels,TR4,Vermelho,2019
+02-11-2019,Triumph,São Paulo - SP,28000,22000,200,25,325,Cut'n'Shut,TR7,Vermelho,2019
+02-12-2019,Triumph,São Paulo - SP,28000,22000,200,25,325,Bright Orange,TR4,Verde,2019
+09-01-2019,Triumph,Minas Gerais - MG,28000,22000,550,950,450,Chateau Moi,TR5,Prata,2019
+10-01-2019,Aston Martin,Minas Gerais - MG,77250,36125,1300,950,1250,Vive la Vitesse!,DB7,Vermelho,2019
+11-02-2019,Aston Martin,Minas Gerais - MG,72000,22500,550,950,1250,Carosse Des Papes,DB7,Azul,2019
+12-03-2019,Aston Martin,Espírito Santo - ES,25500,27500,1050,950,950,Three Country Cars,Vantage,Verde,2019
+13-03-2019,Aston Martin,Espírito Santo - ES,39750,22500,800,950,1250,Jungfrau,Vantage,Prata,2019
+14-03-2019,Rolls Royce,Minas Gerais - MG,77250,36125,1050,950,1250,Chateau Moi,Camargue,Prata,2019
+15-04-2019,Aston Martin,Minas Gerais - MG,48550,22500,2550,325,950,Vive la Vitesse!,DB7,Azul,2019
+16-04-2019,Rolls Royce,Minas Gerais - MG,25500,27500,1300,325,1250,Carosse Des Papes,Camargue,Preto,2019
+17-05-2019,Aston Martin,Espírito Santo - ES,48550,22500,1050,325,1250,Three Country Cars,Vantage,Vermelho,2019
+18-05-2019,Aston Martin,Espírito Santo - ES,39750,22500,550,950,1250,Jungfrau,DB7,Azul,2019
+19-05-2019,Aston Martin,Minas Gerais - MG,48550,22500,1050,0,1250,Chateau Moi,Vantage,Verde,2019
+20-06-2019,Aston Martin,Minas Gerais - MG,40440,27500,2550,950,950,Vive la Vitesse!,DB7,Prata,2019
+21-07-2019,Aston Martin,Minas Gerais - MG,77250,22500,1300,950,1250,Carosse Des Papes,Vantage,Prata,2019
+22-07-2019,Rolls Royce,Espírito Santo - ES,48550,22500,1050,250,1250,Three Country Cars,Camargue,Púrpura,2019
+23-09-2019,Aston Martin,Espírito Santo - ES,39750,27500,1300,0,1250,Jungfrau,DB7,Preto,2019
+24-10-2019,Aston Martin,Espírito Santo - ES,40440,22500,550,250,1250,Jungfrau,DB9,Vermelho,2019
+25-11-2019,Rolls Royce,Minas Gerais - MG,72000,22500,1050,0,950,Vive la Vitesse!,Camargue,Azul,2019
+26-11-2019,Aston Martin,Espírito Santo - ES,40440,36125,800,950,1250,Jungfrau,DB9,Verde,2019
+27-11-2019,Aston Martin,Minas Gerais - MG,77250,22500,550,950,1250,Carosse Des Papes,DB7,Prata,2019
+04-10-2018,Aston Martin,Rio de Janeiro - RJ,40440,22500,550,650,1250,Ambassador Cars,DB9,Prata,2018
+04-10-2018,Rolls Royce,Rio de Janeiro - RJ,97750,55000,550,650,750,Ambassador Cars,Camargue,Prata,2018
+01-01-2018,Aston Martin,Rio de Janeiro - RJ,122750,80000,50,1400,550,Embassy Motors,DB9,Azul,2018
+02-02-2018,Rolls Royce,Rio de Janeiro - RJ,90750,80000,800,900,550,Style ‘N Ride,Camargue,Verde,2018
+03-03-2018,Rolls Royce,Rio de Janeiro - RJ,91750,93000,50,900,550,Embassy Motors,Camargue,Azul,2018
+04-04-2018,Rolls Royce,Rio de Janeiro - RJ,94750,67000,50,1400,550,Sporty Types Corp,Camargue,Prata,2018
+04-05-2018,Rolls Royce,Rio de Janeiro - RJ,105250,130000,50,900,550,BritWheels,Camargue,Verde,2018
+04-06-2018,Aston Martin,Rio de Janeiro - RJ,112750,61000,800,400,550,Style ‘N Ride,DB9,Púrpura,2018
+04-07-2018,Aston Martin,Rio de Janeiro - RJ,127750,28500,2550,900,550,Tweedy Wheels,DB9,Vermelho,2018
+04-08-2018,Aston Martin,Rio de Janeiro - RJ,132750,20500,50,900,750,Ambassador Cars,DB9,Azul,2018
+04-09-2018,Aston Martin,Rio de Janeiro - RJ,77750,80890,150,900,750,Ambassador Cars,DB9,Prata,2018
+04-11-2018,Aston Martin,Rio de Janeiro - RJ,71250,104000,50,1400,750,Tweedy Wheels,DB9,Azul,2018
+04-11-2018,Aston Martin,Rio de Janeiro - RJ,97750,130000,50,1400,750,Sporty Types Corp,DB9,Prata,2018
+04-12-2018,Aston Martin,Rio de Janeiro - RJ,157750,130000,5050,1400,750,Style ‘N Ride,DB9,Prata,2018
+04-12-2018,Aston Martin,Rio de Janeiro - RJ,97750,160000,50,1400,570,BritWheels,DB9,Preto,2018
+02-01-2019,Aston Martin,Rio de Janeiro - RJ,181250,130000,50,1650,570,Tweedy Wheels,DB9,Verde,2019
+02-02-2019,Rolls Royce,Rio de Janeiro - RJ,132750,67000,50,1650,570,Sporty Types Corp,Camargue,Prata,2019
+02-03-2019,Rolls Royce,Rio de Janeiro - RJ,181250,67000,50,890,654,BritWheels,Camargue,Prata,2019
+02-04-2019,Rolls Royce,Rio de Janeiro - RJ,112750,80890,50,400,987,Style ‘N Ride,Camargue,Verde,2019
+02-05-2019,Rolls Royce,Rio de Janeiro - RJ,132750,67000,1000,1650,654,Embassy Motors,Camargue,Preto,2019
+02-06-2019,Rolls Royce,Rio de Janeiro - RJ,181250,80890,50,1650,321,Ambassador Cars,Camargue,Vermelho,2019
+02-07-2019,Rolls Royce,Rio de Janeiro - RJ,112750,67000,1800,400,951,Ambassador Cars,Camargue,Vermelho,2019
+02-08-2019,Rolls Royce,Rio de Janeiro - RJ,105250,67000,50,900,987,Embassy Motors,Camargue,Preto,2019
+02-09-2019,Rolls Royce,Rio de Janeiro - RJ,132750,67000,50,350,750,Style ‘N Ride,Camargue,Verde,2019
+02-10-2019,Rolls Royce,Rio de Janeiro - RJ,181250,80890,50,1650,654,Sporty Types Corp,Camargue,Púrpura,2019
+02-11-2019,Rolls Royce,Rio de Janeiro - RJ,181250,80890,800,1650,987,BritWheels,Camargue,Preto,2019
+02-12-2019,Rolls Royce,Rio de Janeiro - RJ,132750,80890,50,1650,321,Sporty Types Corp,Camargue,Vermelho,2019
+02-01-2019,Rolls Royce,Rio de Janeiro - RJ,181250,67000,50,400,654,Sporty Types Corp,Camargue,Verde,2019
+02-02-2019,Aston Martin,Rio de Janeiro - RJ,181250,80890,50,400,987,BritWheels,DB9,Púrpura,2019
+02-03-2019,Aston Martin,Rio de Janeiro - RJ,112750,80890,50,400,963,BritWheels,DB9,Preto,2019
+02-04-2019,Aston Martin,Rio de Janeiro - RJ,181250,80890,50,50,852,Style ‘N Ride,DB9,Preto,2019
+02-05-2019,Aston Martin,Rio de Janeiro - RJ,112750,80890,45,400,147,Ambassador Cars,DB9,Azul,2019
+02-06-2019,Aston Martin,Rio de Janeiro - RJ,105250,80890,800,350,852,Embassy Motors,DB9,Prata,2019
+02-07-2019,Aston Martin,Rio de Janeiro - RJ,181250,67000,500,350,654,Style ‘N Ride,DB9,Prata,2019
+02-08-2019,Aston Martin,Rio de Janeiro - RJ,127250,67000,1300,350,984,Sporty Types Corp,DB9,Verde,2019
+02-09-2019,Aston Martin,Rio de Janeiro - RJ,132750,67000,50,0,895,BritWheels,DB9,Prata,2019
+02-10-2019,Aston Martin,Rio de Janeiro - RJ,112750,67000,50,350,486,Sporty Types Corp,DB9,Azul,2019
+02-11-2019,Aston Martin,Rio de Janeiro - RJ,181250,67000,50,1650,325,Sporty Types Corp,DB9,Vermelho,2019
+02-12-2019,Aston Martin,Rio de Janeiro - RJ,132750,130000,50,1650,658,BritWheels,DB9,Vermelho,2019
+01-01-2018,Aston Martin,Rio de Janeiro - RJ,112750,130000,550,350,752,Ambassador Cars,DB9,Vermelho,2018
+01-02-2018,Jaguar,Rio de Janeiro - RJ,46750,30000,550,350,486,Ambassador Cars,XK,Púrpura,2018
+01-03-2018,Jaguar,Rio de Janeiro - RJ,47750,42500,50,0,486,Ambassador Cars,XK,Verde,2018
+01-04-2018,Jaguar,Rio de Janeiro - RJ,42250,30000,50,400,486,Ambassador Cars,XK,Preto,2018
+01-05-2018,Jaguar,Rio de Janeiro - RJ,46750,42500,50,400,486,Style ‘N Ride,XK,Prata,2018
+01-06-2018,Jaguar,Rio de Janeiro - RJ,46750,30000,550,400,486,Sporty Types Corp,XK,Prata,2018
+01-07-2018,Jaguar,Rio de Janeiro - RJ,42250,42500,550,1650,486,BritWheels,XK,Prata,2018
+01-08-2018,Jaguar,Rio de Janeiro - RJ,46750,30000,800,400,486,Sporty Types Corp,XK,Verde,2018
+01-09-2018,Jaguar,Rio de Janeiro - RJ,112750,55000,650,1650,486,Sporty Types Corp,XK,Azul,2018
+01-10-2018,Jaguar,Rio de Janeiro - RJ,112750,30000,800,1650,987,BritWheels,XK,Prata,2018
+01-11-2018,Jaguar,Rio de Janeiro - RJ,46750,42500,50,400,987,BritWheels,XK,Verde,2018
+01-12-2018,Jaguar,Rio de Janeiro - RJ,42250,30000,50,400,987,Ambassador Cars,XK,Púrpura,2018
+02-01-2019,Jaguar,Rio de Janeiro - RJ,46750,42500,50,1650,987,Embassy Motors,XK,Prata,2019
+02-02-2019,Jaguar,Rio de Janeiro - RJ,46750,30000,50,400,987,Style ‘N Ride,XK,Verde,2019
+02-03-2019,Jaguar,Rio de Janeiro - RJ,46750,42500,800,400,987,BritWheels,XK,Púrpura,2019
+02-04-2019,Jaguar,Rio de Janeiro - RJ,42250,30000,650,400,987,Sporty Types Corp,XK,Vermelho,2019
+02-05-2019,Jaguar,Rio de Janeiro - RJ,112750,42500,650,400,987,Union Jack Sports Cars,XK,Vermelho,2019
+02-06-2019,Jaguar,Rio de Janeiro - RJ,46750,30000,550,350,987,British Luxury Automobile Corp,XK,Vermelho,2019
+02-07-2019,Jaguar,Rio de Janeiro - RJ,42250,42500,550,350,987,Buckingham Palace Car Services,XK,Púrpura,2019
+02-08-2019,Jaguar,Rio de Janeiro - RJ,42250,30000,550,350,750,Union Jack Sports Cars,XK,Verde,2019
+02-09-2019,Jaguar,Rio de Janeiro - RJ,42250,17500,550,400,750,Tweedy Wheels,XK,Preto,2019
+02-10-2019,Jaguar,Rio de Janeiro - RJ,42250,30000,650,400,750,Sporty Types Corp,XK,Prata,2019
+02-11-2019,Jaguar,Rio de Janeiro - RJ,42250,42500,800,400,750,Sporty Types Corp,XK,Prata,2019
+02-12-2019,Jaguar,Rio de Janeiro - RJ,42250,30000,800,400,1250,BritWheels,XK,Prata,2019
+01-01-2018,Jaguar,Rio de Janeiro - RJ,42250,42500,650,400,1250,BritWheels,XK,Verde,2018
+01-02-2018,Bentley,Rio de Janeiro - RJ,42250,30700,800,400,1250,Style ‘N Ride,Continental,Azul,2018
+01-03-2018,Bentley,Rio de Janeiro - RJ,46750,30700,800,400,1250,Style ‘N Ride,Continental,Prata,2018
+01-04-2018,Bentley,Rio de Janeiro - RJ,46750,30700,650,675,987,Embassy Motors,Continental,Vermelho,2018
+01-05-2018,Bentley,Rio de Janeiro - RJ,112750,30700,800,675,1250,Embassy Motors,Continental,Vermelho,2018
+01-06-2018,Bentley,Rio de Janeiro - RJ,112750,67000,550,675,987,Ambassador Cars,Continental,Prata,2018
+01-07-2018,Bentley,Rio de Janeiro - RJ,112750,67000,550,675,1250,Ambassador Cars,Continental,Prata,2018
+01-08-2018,Bentley,Rio de Janeiro - RJ,112750,30700,550,675,987,British Luxury Automobile Corp,Continental,Verde,2018
+01-09-2018,Bentley,Rio de Janeiro - RJ,112750,30700,550,675,1250,Buckingham Palace Car Services,Continental,Preto,2018
+01-10-2018,Bentley,Rio de Janeiro - RJ,46750,30700,550,400,987,Tweedy Wheels,Continental,Prata,2018
+01-11-2018,Bentley,Rio de Janeiro - RJ,112750,67000,550,350,1250,Ambassador Cars,Continental,Prata,2018
+01-12-2018,Bentley,Rio de Janeiro - RJ,46750,67000,550,350,987,Embassy Motors,Continental,Prata,2018
+02-01-2019,Bentley,Rio de Janeiro - RJ,46750,67000,400,350,987,Style ‘N Ride,Continental,Azul,2019
+02-02-2019,Bentley,Rio de Janeiro - RJ,112750,30700,550,400,1250,BritWheels,Continental,Azul,2019
+02-03-2019,Bentley,Rio de Janeiro - RJ,112750,30700,400,675,750,Sporty Types Corp,Continental,Verde,2019
+02-04-2019,Bentley,Rio de Janeiro - RJ,44000,30700,550,675,750,Tweedy Wheels,Continental,Azul,2019
+02-05-2019,Bentley,Rio de Janeiro - RJ,112750,30700,550,675,750,Union Jack Sports Cars,Continental,Vermelho,2019
+02-06-2019,Bentley,Rio de Janeiro - RJ,42250,67000,400,400,750,Buckingham Palace Car Services,Continental,Vermelho,2019
+02-07-2019,Bentley,Rio de Janeiro - RJ,42250,67000,550,400,486,Ambassador Cars,Continental,Vermelho,2019
+02-08-2019,Bentley,Rio de Janeiro - RJ,42250,30700,550,675,486,Embassy Motors,Continental,Púrpura,2019
+02-09-2019,Bentley,Rio de Janeiro - RJ,44000,67000,1300,350,486,Tweedy Wheels,Continental,Púrpura,2019
+02-10-2019,Bentley,Rio de Janeiro - RJ,42250,67000,1050,350,486,Sporty Types Corp,Continental,Verde,2019
+02-11-2019,Bentley,Rio de Janeiro - RJ,46750,67000,1050,350,486,Embassy Motors,Continental,Preto,2019
+02-12-2019,Bentley,Rio de Janeiro - RJ,46750,30700,1050,350,486,Ambassador Cars,Continental,Azul,2019
+02-02-2019,Jaguar,Rio de Janeiro - RJ,32500,42500,200,-50,486,Classy Car Sales,XK,Vermelho,2019
+02-04-2019,Jaguar,Rio de Janeiro - RJ,42250,42500,200,-50,325,Classy Car Sales,XK,Verde,2019
+02-05-2019,TVR,Rio de Janeiro - RJ,32500,42500,200,-50,325,British Luxury Automobile Corp,Tuscan,Prata,2019
+02-06-2019,Jaguar,Rio de Janeiro - RJ,122750,42500,350,-50,325,Buckingham Palace Car Services,XK,Prata,2019
+02-07-2019,TVR,Rio de Janeiro - RJ,32500,42500,200,-50,325,Embassy Motors,Tuscan,Azul,2019
+02-08-2019,Jaguar,Rio de Janeiro - RJ,44000,42500,200,-50,325,Tweedy Wheels,XK,Prata,2019
+02-09-2019,TVR,Rio de Janeiro - RJ,32500,42500,200,-50,325,Sporty Types Corp,Tuscan,Prata,2019
+02-10-2019,Jaguar,Rio de Janeiro - RJ,42250,42500,350,-50,325,Buckingham Palace Car Services,XK,Vermelho,2019
+02-11-2019,TVR,Rio de Janeiro - RJ,44000,42500,200,-50,325,Sporty Types Corp,Tuscan,Azul,2019
+02-12-2019,Jaguar,Rio de Janeiro - RJ,32500,42500,350,-50,325,Style ‘N Ride,XK,Azul,2019
+02-01-2019,Jaguar,Rio de Janeiro - RJ,44000,42500,200,-50,325,BritWheels,XK,Azul,2019
+02-02-2019,Jaguar,Rio de Janeiro - RJ,42250,30700,200,-50,250,BritWheels,XK,Púrpura,2019
+02-03-2019,Jaguar,Rio de Janeiro - RJ,42250,30700,200,-50,250,BritWheels,XK,Verde,2019
+02-04-2019,Jaguar,Rio de Janeiro - RJ,42250,30700,200,-50,250,BritWheels,XK,Preto,2019
+02-05-2019,Jaguar,Rio de Janeiro - RJ,42250,67000,200,-50,250,BritWheels,XK,Vermelho,2019
+02-06-2019,Jaguar,Rio de Janeiro - RJ,44000,67000,200,-50,250,BritWheels,XK,Prata,2019
+02-07-2019,Jaguar,Rio de Janeiro - RJ,44000,30700,350,-50,250,BritWheels,XK,Prata,2019
+02-08-2019,Jaguar,Rio de Janeiro - RJ,42250,30700,200,-50,250,Ambassador Cars,XK,Prata,2019
+02-09-2019,Jaguar,Rio de Janeiro - RJ,42250,30700,200,-50,250,Embassy Motors,XK,Prata,2019
+02-10-2019,Jaguar,Rio de Janeiro - RJ,42250,67000,200,-50,250,Embassy Motors,XK,Prata,2019
+02-11-2019,Jaguar,Rio de Janeiro - RJ,42250,30700,350,-50,250,Style ‘N Ride,XK,Prata,2019
+02-12-2019,Jaguar,Rio de Janeiro - RJ,44000,67000,200,-50,250,BritWheels,XK,Azul,2019
+02-01-2019,Jaguar,Rio de Janeiro - RJ,44000,67000,150,-50,250,Sporty Types Corp,XK,Azul,2019
+02-02-2019,MGB,Rio de Janeiro - RJ,42250,9500,200,-50,325,British Luxury Automobile Corp,GT,Vermelho,2019
+02-03-2019,MGB,Rio de Janeiro - RJ,42250,13500,150,-50,325,Sporty Types Corp,GT,Verde,2019
+02-04-2019,MGB,Rio de Janeiro - RJ,28000,9500,350,-50,325,Sporty Types Corp,GT,Vermelho,2019
+02-05-2019,MGB,Rio de Janeiro - RJ,25250,13500,200,-50,325,BritWheels,GT,Vermelho,2019
+02-06-2019,MGB,Rio de Janeiro - RJ,25250,9500,200,50,325,BritWheels,GT,Vermelho,2019
+02-07-2019,MGB,Rio de Janeiro - RJ,25250,13500,150,-50,325,Style ‘N Ride,GT,Vermelho,2019
+02-08-2019,MGB,Rio de Janeiro - RJ,28000,9500,350,-50,325,Embassy Motors,GT,Azul,2019
+02-09-2019,MGB,Rio de Janeiro - RJ,25250,13500,200,-50,325,Ambassador Cars,GT,Verde,2019
+02-10-2019,MGB,Rio de Janeiro - RJ,28000,9500,200,50,325,Embassy Motors,GT,Prata,2019
+02-11-2019,MGB,Rio de Janeiro - RJ,25250,13500,200,-50,325,Style ‘N Ride,GT,Prata,2019
+02-12-2019,MGB,Rio de Janeiro - RJ,28000,9500,200,-50,325,Ambassador Cars,GT,Azul,2019
+02-01-2019,MGB,Rio de Janeiro - RJ,25250,9500,150,-50,325,Union Jack Sports Cars,GT,Verde,2019
+02-02-2019,Triumph,Rio de Janeiro - RJ,25250,13500,200,-50,325,Union Jack Sports Cars,TR4,Preto,2019
+02-03-2019,Triumph,Rio de Janeiro - RJ,28000,22000,200,-50,325,Embassy Motors,TR4,Púrpura,2019
+02-05-2019,Triumph,Rio de Janeiro - RJ,25250,22000,200,-50,325,Style ‘N Ride,TR4,Azul,2019
+02-07-2019,Triumph,Rio de Janeiro - RJ,25250,22000,200,-50,325,BritWheels,TR4,Prata,2019
+02-08-2019,Triumph,Rio de Janeiro - RJ,28000,22000,200,50,325,Sporty Types Corp,TR4,Azul,2019
+02-09-2019,Triumph,Rio de Janeiro - RJ,25250,22000,200,-50,325,Style ‘N Ride,TR4,Azul,2019
+02-10-2019,Triumph,Rio de Janeiro - RJ,28000,22000,200,-50,325,Ambassador Cars,TR4,Vermelho,2019
+02-11-2019,Triumph,Rio de Janeiro - RJ,28000,22000,200,-50,325,Classy Car Sales,TR4,Vermelho,2019
+02-12-2019,Triumph,Rio de Janeiro - RJ,28000,22000,200,-50,325,British Luxury Automobile Corp,TR4,Verde,2019
+09-01-2019,Triumph,Rio de Janeiro - RJ,28000,22000,550,875,450,Embassy Motors,TR4,Prata,2019
+10-01-2019,Aston Martin,Rio de Janeiro - RJ,77250,36125,1300,875,1250,BritWheels,DB9,Vermelho,2019
+11-02-2019,Aston Martin,Rio de Janeiro - RJ,72000,22500,550,875,1250,Style ‘N Ride,DB9,Azul,2019
+12-03-2019,Aston Martin,Rio de Janeiro - RJ,25500,27500,1050,875,950,Classy Car Sales,DB9,Verde,2019
+13-03-2019,Aston Martin,Rio de Janeiro - RJ,39750,22500,800,875,1250,Style ‘N Ride,DB9,Prata,2019
+14-03-2019,Rolls Royce,Rio de Janeiro - RJ,77250,36125,1050,875,1250,Style ‘N Ride,Camargue,Prata,2019
+15-04-2019,Aston Martin,Rio de Janeiro - RJ,48550,22500,2550,250,950,Style ‘N Ride,DB9,Azul,2019
+16-04-2019,Rolls Royce,Rio de Janeiro - RJ,25500,27500,1300,250,1250,Style ‘N Ride,Camargue,Preto,2019
+17-05-2019,Aston Martin,Rio de Janeiro - RJ,48550,22500,1050,250,1250,Ambassador Cars,DB9,Vermelho,2019
+18-05-2019,Aston Martin,Rio de Janeiro - RJ,39750,22500,550,875,1250,Tweedy Wheels,DB9,Azul,2019
+19-05-2019,Aston Martin,Rio de Janeiro - RJ,48550,22500,1050,-75,1250,Embassy Motors,DB9,Verde,2019
+20-06-2019,Aston Martin,Rio de Janeiro - RJ,40440,27500,2550,875,950,Union Jack Sports Cars,DB9,Prata,2019
+21-07-2019,Aston Martin,Rio de Janeiro - RJ,77250,22500,1300,875,1250,Style ‘N Ride,DB9,Prata,2019
+22-07-2019,Rolls Royce,Rio de Janeiro - RJ,48550,22500,1050,175,1250,Sporty Types Corp,Camargue,Púrpura,2019
+23-09-2019,Aston Martin,Rio de Janeiro - RJ,39750,27500,1300,-75,1250,Buckingham Palace Car Services,DB9,Preto,2019
+24-10-2019,Aston Martin,Rio de Janeiro - RJ,40440,22500,550,175,1250,British Luxury Automobile Corp,DB9,Vermelho,2019
+25-11-2019,Rolls Royce,Rio de Janeiro - RJ,72000,22500,1050,-75,950,Classy Car Sales,Camargue,Azul,2019
+26-11-2019,Aston Martin,Rio de Janeiro - RJ,40440,36125,800,875,1250,Ambassador Cars,DB9,Verde,2019
+27-11-2019,Aston Martin,Rio de Janeiro - RJ,77250,22500,550,875,1250,Embassy Motors,DB9,Prata,2019
